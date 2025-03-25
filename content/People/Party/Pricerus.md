@@ -1,0 +1,1 @@
+A half-elf hunter, hired by [[Nikolas Salvie (aka Nikolaj)]] to show us the way to [[Noxberry]].  Stayed with us to help make camp and look after the horses.

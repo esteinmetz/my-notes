@@ -1,12 +1,19 @@
 ![[Krebsbach (Erik).webp|400]]
-Character sheet: https://docs.google.com/spreadsheets/d/1HPhUFS3AUT3RkTM11-sDJ1P9zACjIyITiM3daA0jNVI/edit
+# [Background/Description](https://docs.google.com/document/d/1amcSsvGzt02VlYAdTWFCp3Gj0ezq9Q-TkjC7ziZGpIQ/edit?usp=sharing)
+[Character sheet](https://docs.google.com/spreadsheets/d/1HPhUFS3AUT3RkTM11-sDJ1P9zACjIyITiM3daA0jNVI/edit)
+He's large though it's hard to see his build or even race through the magically darkened cloak.
+He seems to have a rage problem, and can perform incredible feats of strength when mad.
 
-He's a healer...I promise...
+# Goals:
+#airship #disease 
+1. Spoke to a Hedge Wizard in first village we were in and received undisclosed info. #todo 
+2. Infected Kobolds in different areas with (has probably combined into something worse):
+	1. Mindfire
+	2. Slimy Doom
+	3. Shakes
 
-### Goals:
-#disease #airship 
-
-### #activeMagic :
+# #activeMagic :
+Note: these are not easy to see due to nondetection.
 1. Combat
 	1. bulls strength (and equivalent for all stats)
 	2. death ward
@@ -42,3 +49,7 @@ He's a healer...I promise...
 	2. eyes of the avoral
 	3. healing lorecall
 	4. suffer the flesh
+
+# Known Associates
+1. [[Party]]
+2. [[Frank Lechner]] - book salesman keeping an eye out for books on #airship and #disease for me.
