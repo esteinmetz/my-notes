@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Kevinverse
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Next date is: Unknown
+Last date was: 3/22/2025
