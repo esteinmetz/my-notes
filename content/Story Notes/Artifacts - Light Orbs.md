@@ -7,6 +7,6 @@ We've collected 3, currently carried by:
 2. [[Vekea Thulgiaga (Niki)]]
 3. [[Met (Derek)]]
 
-These are extremely powerful magic, probably conjuration & divination (like teleportation or plane shift), but are hard to identify because they're veiled.
+These are extremely powerful magical batteries, probably conjuration & divination (like teleportation or plane shift), but are hard to identify because they're veiled.
 
 Info on magical storage batteries was sent to an [[unnamed master]] in [[Alewick]] at the [[Union of the Saffron Moon]] in the Southern Duchy of Flemash.

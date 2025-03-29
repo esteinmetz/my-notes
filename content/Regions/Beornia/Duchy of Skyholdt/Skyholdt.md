@@ -1,7 +1,9 @@
 # Details
-Main Species: Human
-Size: Village
+Main Species: Human (75%)
+Power: Conventional (LG)
+Size: Village (~750)
 Description: a trade city
+GP Limit: 15,000 gp
 
 Specifics:
 1. Leadership regularly gets moved here from elsewhere to prevent corruption.

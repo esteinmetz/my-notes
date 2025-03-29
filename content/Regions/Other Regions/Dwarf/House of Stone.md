@@ -1,3 +1,3 @@
 Main Species: Dwarf
 
-near [[Skyhold]]
+near [[Skyholdt]]

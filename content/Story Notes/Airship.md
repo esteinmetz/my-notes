@@ -1,9 +1,11 @@
 #airship 
 # Sources of information:
 - [ ] Books
-	- [x] [[Frank Lechner]] in [[Mossley]]
-	- [ ] Quintis Ferilious in Backlan #todo
-	- [ ] Fabio Hauler in one of the Freeports #todo
+	- [x] [[Frank Lechner]] in [[County of Mossley]]
+	- [ ] [[Quintis Ferilious]] in [[Backlan]] #todo
+	- [ ] [[Fabio Hauler]] in one of the [[Freeports]] #todo
+- [ ] Research
+	- [ ] +8 on next engineering check from research at Engineering Library: [[Borsek]]
 
 # Requirements:
 - [ ] Structure - Physical creation and layout.  Hewn Stone walls/floors (from <em>Wall of Stone</em>)
