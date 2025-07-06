@@ -1,6 +1,6 @@
 Main Species: Human (96%)
 Power: Magical (NG) - [[Union of the Saffron Moon]]
-Size: #todo (~5,000)
+Size: (~5,000)
 Description: 
 GP Limit: 3,000 gp
 

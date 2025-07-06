@@ -30,30 +30,31 @@ Note: these are not easy to see due to nondetection.
 	2. [blessed sight](https://srd.dndtools.org/srd/magic/spells/spells/spellsboed.html#BLESSED%20SIGHT) - detect evil 120 ft
 	3. blindsight - 90ft
 	4. [ebon eyes](https://srd2.dndtools.org/spells/spell-compendium--86/ebon-eyes--3544/) - see in normal and magical darkness like normal
-	5. find traps - not passive, have to search
-	6. find the path
-	7. [status, greater](https://www.d20srd.org/srd/divine/spells/statusGreater.htm) - monitor relative position and general condition of [[party]] members, can cast 0-2 lvl touch spells on them remotely
+	5. eyes of the avoral - bonus to spot
+	6. find traps - not passive, have to search
+	7. find the path
+	8. [status, greater](https://www.d20srd.org/srd/divine/spells/statusGreater.htm) - monitor relative position and general condition of [[party]] members, can cast 0-2 lvl touch spells on them remotely
 3. Passive
-	1. [nondetection](https://www.d20srd.org/srd/spells/nondetection.htm) - difficult to detect by divination (caster check against DC 15 + my caster level)
-	2. [psychic poison](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/) - anyone trying to target w/ mind-affecting or divination are hit w/ Estadrach (1d8 Wis/2d8 Wis)
-	3. spell immunity - several specific spells
-4. Other
+	1. [mind blank](https://www.d20srd.org/srd/spells/mindBlank.htm) - (from [[Met (Derek)]]) protected against all things that detect, influence, or read emotions or thoughts.
+	2. [nondetection](https://www.d20srd.org/srd/spells/nondetection.htm) - difficult to detect by divination (caster check against DC 15 + my caster level)
+	3. [psychic poison](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/) - anyone trying to target w/ mind-affecting or divination are hit w/ Estadrach (1d8 Wis/2d8 Wis)
+	4. spell immunity - several specific spells
+4. Self-Buff
+	1. suffer the flesh - Take Con dmg, increase CL.
+5. Other
 	1. read all languages really fast
 	2. tongues
 	3. endure elements
-	4. sadomasochism
-5. Movement
-	1. freedom of movement
-	2. swim
-	3. burrow
+	4. healing lorecall
+	5. sado/masochism
+6. Movement
+	1. burrow
+	2. freedom of movement
+	3. swim
 	4. water breathing
 	5. wind walk
-6. unassigned
-	6. delay death
-	7. eyes of the avoral
-	8. healing lorecall
-	9. suffer the flesh
-
+7. unassigned
+	1. delay death
 # Known Associates
 1. [[Party]]
 2. Friendly/Favors

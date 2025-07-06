@@ -1,3 +1,30 @@
+# Session 7/5/2025
+We finally leveled pre-session (no specific xp given).
+
+Erik takes out a tower w/ stone shape.  Alex enters the mayor's ([[Count Lucas Clayton of Mossley]]) manor and geas him to serve Pelor.  Summoning sounds (Draconic, words saying summon mother).  We rush back in.
+
+Derek/Alex start fighting the summoners.  Erik drops the tower they're in while Derek and Alex start the murder, then runs up to start punching things.
+
+Brian/Crystal/Niki race back towards the center of town.  A burrowing dragon attacks Brian.  
+
+We gather again, kill a bunch of dragons, then flee with some dragon corpses (1 G Black Dragon, 2 L Black Dragon).  That evening, there's an evil fog (like the old miasma) rolling in, with it there's the sound of a flute, we see [[Louie]] playing in a nearby tree.  When we approach him he turns into a wisp and melds into the fog.
+
+Gain a level (17)
+# Session 5/25/2025
+Battle continues.  Derek has to start defending the caravan of slaves.  At "end of combat" there's an alchemical thingie, a tower explodes and a meteor showery thing hits the town square.  The city goes crazy.  [[Met (Derek)]] and [[Nikolas Salvie (aka Nikolaj)]] escape the city with the freed slaves.  [[Firefly (Crystal)]] flies to the exploded tower.  [[Krebsbach (Erik)]] heads to the largest tower.
+
+Still no xp... (2 sessions)
+# Session 4/26/2025
+We started in the slave auction area.  The city started flooding the cave, so Derek teleports out with the slaves to [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] and the carts, and stays with them as the leave the city.  The rest of the party charges up the tunnel.  [[Krebsbach (Erik)|Krebsbach]] creates an Earthquake, collapsing the cavern over the auction cave and some nearby buildings, then starts filling the cavern himself with a [Decanter of Endless Water](https://www.dandwiki.com/wiki/SRD:Decanter_of_Endless_Water) as he alternates between throwing more people over the edge and healing the party as needed. The rest of the group gets to the murder.
+We stopped before actually finishing the murder (about 1/2 the enemy in the water filling cavern, 5 or 6 dead, melee all in reach, archers still spread).  1 of the seen mages was killed, the other disappeared.
+
+Probably no xp yet...
+
+Archer in tunnel (gear + stuff):
+	+1
+		rapier, short sword, mithril chain shirt
+		Amulet of Natural Armor (Niki?)
+	coin of symbol that probably identifies her as a member of group
 # Session 3/22/2025
 [[Avir (Alex)]] joins!
 We get to [[County of Mossley]] (after 2 days travel).
@@ -5,6 +32,7 @@ Derek and I head to [[Frank Lechner]].
 - Alex has the [[airship]] book (he's delivering the book to "a practicer of arcane arts" in [[Alewick]])
 - Shelf of disease books (Erik buys them all).
 - Frank Lechner gives me a coin (he asked for 25k and Erik gave him 26k to keep similar books for me)
+We head down to the slave auction and quickly murder the slavers...
 
 # Session 2/1/2025
 Ancient silver dragon crashes in the area, (early rough symbol) image of [[Tiamat]] branded on the dragon’s back.  Autopsy shows death probably from dragon fight including acid burns.  Most likely either black or green dragon.  We resurrected it, its name is [[Moon Watcher]].
@@ -45,7 +73,7 @@ After arriving, kobolds came and stole from [[Nikolas Salvie (aka Nikolaj)|Nikol
 While waiting on [[Nikolas Salvie (aka Nikolaj)|Nikolaj]], we all did our thing.  Erik found an unnamed hedge wizard who was a master of diseases and spoke about future things that had no details from a Kevin. #todo
 
 [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] eventually came in with an associate ([[Dalmar Starkguard]]).  We briefed them and [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] gave [[Dalmar Starkguard]] 5 pouches to send to [[Skyholdt]], [[Bonera]], [[Bournsmouth]], [[Alewick]], and [[Arkala City|Arkala]].
-#todo Are we delivering to Alewick?
+Are we delivering to Alewick?
 	“We have an incredibly dangerous situation brewing north in the woods.  Whole tribes of kobolds seem to be following someone else’s directions N towards mountains near Gnomish [[Noxberry]] (town).  However there are no other indications of this.  Only indication is the lack of contact w/ nearby villages/people.  Very hard to find.  Please find any reason to find why they’d do this and prepare for action.”
 
 After that, [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] wants us to come with him towards [[Noxberry]] (where the kobolds were heading).  He hires [[Pricerus]], a half-elf hunter to lead us there.  On the way, we murder some Deinos, collect some herbalisms, and the mist gets more poisony.
@@ -63,7 +91,7 @@ We get to a giant, magical marble dais that looks like where the crystals are su
 Probably heading S to [[Alewick]] next, hopefully with a detour passed [[County of Mossley]] for an [[airship]] book.
 
 ###### heading to [[County of Mossley]] via [[County of Erast]]
-On the way to [[County of Erast]], Crystal finds redcaps, but hands them off to Erik (needs result from Kevin later) #todo
+On the way to [[County of Erast]], Crystal finds redcaps, but hands them off to Erik (needs result from Kevin later)
 
 After peacebonding weapons, we're allowed into [[County of Erast]].  Are given a symbol to Wee Jas after arm wrestling the Kord clerics.  Follow the people to a cage match.
 
