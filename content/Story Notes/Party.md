@@ -13,8 +13,9 @@
 1. [Deeper Darkness (Krebsbach)](https://www.d20srd.org/srd/spells/deeperDarkness.htm) - Everyone has 1 item with it on for emergencies
 2. [Psychic Poison (Sleeping area)](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/)
 3. [Shield Other (Krebsbach)](https://www.d20srd.org/srd/spells/shieldOther.htm)
-4. [Telepathic Bond (Krebsback)](https://www.d20srd.org/srd/psionic/spells/telepathicBondLesser.htm)
-5. Special:
+4. [Telepathic Bond (Krebsbach)](https://www.d20srd.org/srd/psionic/spells/telepathicBondLesser.htm)
+5. [Wind Walk (Krebsbach)](https://www.d20srd.org/srd/spells/windWalk.htm)
+6. Special:
 	1. When healed by [[Krebsbach (Erik)]] you also 1 of: daze, dazzled, fatigued, exhausted, nauseated, sickened
 
 # Goals

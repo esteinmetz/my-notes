@@ -8,7 +8,7 @@ GP Limit: 3,000 gp
 Vice: Money, Slavery, Sex
 ## Notes
 - [ ] Crime riddled place, smells slightly musty.  [[Party]] is currently at war with them it seems...
-- [x] Book about Airships: held by [[Frank Lechner]]
+- [x] Book about [[Airship]]: held by [[Frank Lechner]]
 - [ ] Slave market under town square.
 	- [ ] Currently occupied by the [[party]].
 ## Places

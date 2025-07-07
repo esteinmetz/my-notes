@@ -3,6 +3,7 @@ The benevolent Guild of the Healing Mage Organization—or HMO for short—is a 
 
 Those who can’t afford to pay it, are offered an alternative payment plan of blood (xp).  Contracts are signed, but are they magical?  #todo
 
+Housed in the [[Party]]'s [[Airship]].
 # Prices
 | Service                | Price            | Alternate Price | Material  | Notes                                       |
 | ---------------------- | ---------------- | --------------- | --------- | ------------------------------------------- |
@@ -18,7 +19,7 @@ Those who can’t afford to pay it, are offered an alternative payment plan of b
 | Anything off-menu      | BASE Spellcaster | My min cast/5   |           |                                             |
 Note: material costs are included in price.
 Note2: if they can't afford alternate we make a deal (payment plan).  If stiffed...we take everything they own, extract liquid pain from them and their families.
-1. #todo
+1. Other options: #todo
 	1. Lock them up until they pay their debts (if they rest a day can we drain them again)?
 	2. Test diseases on them?
 	3. Some other way?

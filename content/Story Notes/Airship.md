@@ -1,11 +1,21 @@
-#airship 
-# Maps
----WIP---
+# Maps (WIP)
+
+| Ground Floor<br>![[Airship, Ground Floor.jpg\|400]]<br>Contains:<br>1. Open air Park<br>2. Privy<br>3. Stables (6 horses) | B1 (Living Quarters)<br>![[Airship, Living Floor.jpg\|400]]<br>Contains:<br>1. Barracks for 10<br>2. Kitchen for 15<br>3. Dining area                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| B2 (Storage)<br>![[Airship, Storage Floor.jpg\|400]]<br>1. Storage: 8,000 ft^3^                                           | B3 (Crafting)<br>![[Airship, Craft Floor.jpg\|400]]<br>Contains:<br>1. Library (all primary Knowledge + General)<br>2. Alchemist's Lab<br>3. Artificer Shop |
 # Details
-Dimensions: 
+Dimensions: 70x55x40 ft
 Speed: 10 mph (240 mpd) flight
+Walls, Exterior: Granite, slick, 5" thick (hardness 9, 75 hp, Break DC 50, Climb DC 35)
+Walls, Interior: Granite, 1" thick (hardness 9, 15 hp)
+## Magic
+1. *[forbiddance](https://www.d20srd.org/srd/spells/forbiddance.htm)* - to prevent planar travel/summoning to anywhere not desired for public (everything below ground).  DC 
+	1. Password for entrance given to [[Party]].
+2. *[nondetection](https://www.d20srd.org/srd/spells/nondetection.htm)* - on entire fortress
 ## Staff:
 1. Most rooms have unseen servants/crafters as needed.
+2. [[Healing Mage Organization]]
+	1. [[Krebsbach (Erik)]]
 ## Workspaces
 1. Kitchen - Can cook for up to 15 people.
 2. Library - +2 on all standard Knowledge checks, +1 on anything else.

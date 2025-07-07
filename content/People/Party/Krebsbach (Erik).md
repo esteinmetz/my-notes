@@ -16,45 +16,27 @@ He seems to have a rage problem, and can perform incredible feats of strength wh
 
 # #activeMagic :
 Note: these are not easy to see due to nondetection.
-1. Combat
-	1. bulls strength (and equivalent for all stats)
-	2. death ward
-	3. energy immunity
-	4. mage armor
-	5. magic vestment
-	6. nails of luthic - grow purple poisoned fingernails
-	7. spell resistance
-	8. vigor - fast healing
-2. Senses
-	1. arcane sight, greater - detect magic 120 ft (automatically know location and power of auras and which spells/effects are active on any individual)
-	2. [blessed sight](https://srd.dndtools.org/srd/magic/spells/spells/spellsboed.html#BLESSED%20SIGHT) - detect evil 120 ft
+1. Senses
+	1. arcane sight - detect magic 120 ft (automatically know location and power of auras and which spells/effects are active on any individual)
+	2. [blessed sight](https://srd.dndtools.org/srd/magic/spells/spells/spellsboed.html#BLESSED%20SIGHT) - detect evil 180 ft
 	3. blindsight - 90ft
 	4. [ebon eyes](https://srd2.dndtools.org/spells/spell-compendium--86/ebon-eyes--3544/) - see in normal and magical darkness like normal
-	5. eyes of the avoral - bonus to spot
-	6. find traps - not passive, have to search
-	7. find the path
-	8. [status, greater](https://www.d20srd.org/srd/divine/spells/statusGreater.htm) - monitor relative position and general condition of [[party]] members, can cast 0-2 lvl touch spells on them remotely
-3. Passive
+	5. [status, greater](https://www.d20srd.org/srd/divine/spells/statusGreater.htm) - monitor relative position and general condition of [[party]] members, can cast 0-2 lvl touch spells on them remotely
+2. Defensive
 	1. [mind blank](https://www.d20srd.org/srd/spells/mindBlank.htm) - (from [[Met (Derek)]]) protected against all things that detect, influence, or read emotions or thoughts.
 	2. [nondetection](https://www.d20srd.org/srd/spells/nondetection.htm) - difficult to detect by divination (caster check against DC 15 + my caster level)
 	3. [psychic poison](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/) - anyone trying to target w/ mind-affecting or divination are hit w/ Estadrach (1d8 Wis/2d8 Wis)
-	4. spell immunity - several specific spells
-4. Self-Buff
-	1. suffer the flesh - Take Con dmg, increase CL.
-5. Other
-	1. read all languages really fast
-	2. tongues
-	3. endure elements
-	4. healing lorecall
-	5. sado/masochism
-6. Movement
+		1. Also cast on sleeping area.
+3. Movement
 	1. burrow
 	2. freedom of movement
 	3. swim
 	4. water breathing
 	5. wind walk
-7. unassigned
-	1. delay death
+4. Other
+	1. read all languages really fast
+	2. tongues
+5. More: lots more...these are just the important to know
 # Known Associates
 1. [[Party]]
 2. Friendly/Favors
