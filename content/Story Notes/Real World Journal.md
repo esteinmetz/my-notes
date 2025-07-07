@@ -61,7 +61,6 @@ Use [[Castel Inn]] as a meetup.  Niki partying.  Crystal heads to the alchemis
 
 Erik sets up a sale for a bunch of poison (only Derek knows).
 
-
 # Session 6/29/2024:
 [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] uses his foldable inn for the first time to take cover from an approaching [[Magic Storm]].  During the storm an Iron Golem appears, we defeat it and remove a fiery thing from inside it.
 

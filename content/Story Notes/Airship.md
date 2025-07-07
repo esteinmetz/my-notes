@@ -13,8 +13,9 @@ Walls, Interior: Granite, 1" thick (hardness 9, 15 hp)
 	1. Password for entrance given to [[Party]].
 2. *[nondetection](https://www.d20srd.org/srd/spells/nondetection.htm)* - on entire fortress
 ## Staff:
-1. Most rooms have unseen servants/crafters as needed.
-2. [[Healing Mage Organization]]
+1. [[Party]]
+2. Most rooms have unseen servants/crafters as needed.
+3. Soon: [[Healing Mage Organization]]
 	1. [[Krebsbach (Erik)]]
 ## Workspaces
 1. Kitchen - Can cook for up to 15 people.
