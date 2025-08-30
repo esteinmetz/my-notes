@@ -19,6 +19,6 @@
 	1. When healed by [[Krebsbach (Erik)]] you also 1 of: daze, dazzled, fatigued, exhausted, nauseated, sickened
 
 # Goals
-- [ ] Build [[airship]]
+- [ ] Build [[Airship]]
 - [ ] Investigate #tiamat
 - [ ] Get [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] to the [[Union of the Saffron Moon]] in [[Alewick]].

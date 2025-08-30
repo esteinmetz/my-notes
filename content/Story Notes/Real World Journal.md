@@ -1,3 +1,5 @@
+# Session TBD
+A wild [[(Kat) WIP]] appears!
 # Session 7/5/2025
 We finally leveled pre-session (no specific xp given).
 
@@ -29,7 +31,7 @@ Archer in tunnel (gear + stuff):
 [[Avir (Alex)]] joins!
 We get to [[County of Mossley]] (after 2 days travel).
 Derek and I head to [[Frank Lechner]].
-- Alex has the [[airship]] book (he's delivering the book to "a practicer of arcane arts" in [[Alewick]])
+- Alex has the [[Airship]] book (he's delivering the book to "a practicer of arcane arts" in [[Alewick]])
 - Shelf of disease books (Erik buys them all).
 - Frank Lechner gives me a coin (he asked for 25k and Erik gave him 26k to keep similar books for me)
 We head down to the slave auction and quickly murder the slavers...
@@ -87,7 +89,7 @@ We get to a giant, magical marble dais that looks like where the crystals are su
 
 [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] is chased back by winged kobolds and deinonychus (maybe other things too?).  They apparently destroyed the dam mechanism before coming.  We defended [[Skyholdt]] from a horde of Deinonychus that followed [[Nikolas Salvie (aka Nikolaj)|Nikolaj]], then built them a stone wall the next day while Brian briefed [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] on our adventures.
 
-Probably heading S to [[Alewick]] next, hopefully with a detour passed [[County of Mossley]] for an [[airship]] book.
+Probably heading S to [[Alewick]] next, hopefully with a detour passed [[County of Mossley]] for an [[Airship]] book.
 
 ###### heading to [[County of Mossley]] via [[County of Erast]]
 On the way to [[County of Erast]], Crystal finds redcaps, but hands them off to Erik (needs result from Kevin later)

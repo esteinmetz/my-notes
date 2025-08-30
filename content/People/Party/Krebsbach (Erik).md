@@ -11,7 +11,7 @@ He seems to have a rage problem, and can perform incredible feats of strength wh
 		1. Mindfire
 		2. Slimy Doom
 		3. Shakes
-2. [[airship]] 
+2. [[Airship]] 
 	1. Once we have a stable place, officially start [[Healing Mage Organization]]
 
 # #activeMagic :
@@ -40,5 +40,5 @@ Note: these are not easy to see due to nondetection.
 # Known Associates
 1. [[Party]]
 2. Friendly/Favors
-	1. [[Frank Lechner]] - book salesman keeping an eye out for books on [[airship]] and #disease for me.
+	1. [[Frank Lechner]] - book salesman keeping an eye out for books on [[Airship]] and #disease for me.
 	2. [[Moon Watcher]] - dragon he resurrected
