@@ -15,6 +15,6 @@
 5. Storage:  Storage: 8,000 ft<sup>3</sup>
 # Staff
 1. General: 1 unseen servant to keep everything clean
-2. Alchemical Lab: 4 unseen crafters
-3. Artificer's Shop: 1 unseen crafter
-4. Library: 2 unseen crafters
+2. Alchemical Lab: 8 unseen crafters
+3. Artificer's Shop: Derek?
+4. Library: 2 unseen crafter librarians

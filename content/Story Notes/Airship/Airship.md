@@ -31,5 +31,5 @@ Other:
 	- [x] [[Frank Lechner]] in [[County of Mossley]]
 	- [ ] [[Quintis Ferilious]] in [[Backlan]]
 	- [ ] [[Fabio Hauler]] in one of the [[Freeports]]
-- [ ] Research
-	- [ ] +8 on next engineering check from research at Engineering Library: [[Borsek]]
+- [x] Research
+	- [x] +8 on next engineering check from research at Engineering Library: [[Borsek]]

@@ -3,16 +3,9 @@ After the Draconic fight, [[Nikolas Salvie (aka Nikolaj)]] leaves and doesn't re
 
 The [[Party]] decides the best option is to go find [[Count Lucas Clayton of Mossley]].  [[Met (Derek)]] scryed him and lost the connection north of the human lands.  [[Krebsbach (Erik)]] uses Discern Location to find a better location, it takes the new [[Airship]] 2 days to get there.  We find the count's ring and evidence says he's dead and in dragon shit, so [[Krebsbach (Erik)]] resurrects him.
 
-[[Hellulth]] the dragon master of [[County of Mossley]].  The Counts family was under her control for generations.
-Knowledge dump:
-- [ ] Black
-- [ ] Caster
-- [ ] Often humanoid form (Erik saw)
-- [ ] Likes gold
-- [ ] Likes dragon young (she's raising dragons)
-	- [ ] Other's are out in the swamps
+[[Hellulth]] the dragon master of [[County of Mossley]].
 
-[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.
+[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.  Group decides (internally) to keep assisting the people and praising the king for allowing us to help his people.  But with a backup plan to just hide over the mountains near the capital as a worst case.
 # Session 8/31/2025
 We head South to the outskirts of [[Margraviate of Seameet]] (a pirate town).  [[Krebsbach (Erik)]], [[Met (Derek)]], and [[Vekea Thulgiaga (Niki)]] create [[Airship]] mk1 while the party explores the town.  [[Branlan (Brian)]] loses a bareknuckle boxing fight by cheating (wearing armor).  [[Met (Derek)]] sells booze.  [[Firefly (Crystal)]] forages/sells shrooms.  [[Avir (Alex)]] tries to help the poors (Derek donates 100gp).
 
