@@ -1,5 +1,24 @@
-# Session TBD
-A wild [[(Kat) WIP]] appears!
+# Session 1/18/2026
+After the Draconic fight, [[Nikolas Salvie (aka Nikolaj)]] leaves and doesn't return. We magic him and find that he was taken [[First Guard of the Duchy of Suel]].  We communicated with him and he doesn't want to be saved.  We keep tracking him while we heal and investigate.  He was arrested for regicide in [[County of Mossley]] 
+
+The [[Party]] decides the best option is to go find [[Count Lucas Clayton of Mossley]].  [[Met (Derek)]] scryed him and lost the connection north of the human lands.  [[Krebsbach (Erik)]] uses Discern Location to find a better location, it takes the new [[Airship]] 2 days to get there.  We find the count's ring and evidence says he's dead and in dragon shit, so [[Krebsbach (Erik)]] resurrects him.
+
+[[Hellulth]] the dragon master of [[County of Mossley]].  The Counts family was under her control for generations.
+Knowledge dump:
+- [ ] Black
+- [ ] Caster
+- [ ] Often humanoid form (Erik saw)
+- [ ] Likes gold
+- [ ] Likes dragon young (she's raising dragons)
+	- [ ] Other's are out in the swamps
+
+[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.
+# Session 8/31/2025
+We head South to the outskirts of [[Margraviate of Seameet]] (a pirate town).  [[Krebsbach (Erik)]], [[Met (Derek)]], and [[Vekea Thulgiaga (Niki)]] create [[Airship]] mk1 while the party explores the town.  [[Branlan (Brian)]] loses a bareknuckle boxing fight by cheating (wearing armor).  [[Met (Derek)]] sells booze.  [[Firefly (Crystal)]] forages/sells shrooms.  [[Avir (Alex)]] tries to help the poors (Derek donates 100gp).
+
+After about 2 weeks, crowds start forming near the tower to watch what's going on.  A couple days later, something Gargantuan charges towards the airship.  Draconic, but doesn't seem to have scales.  They are probably crossbreeds of dragons and olyphants (at least).  There's 1 trapped with a body of another trapped in a triangle of wall of force with Niki chopping and Erik grappling.  1 escaped.
+
+A wild [[Welhanna Billowdust (Kat)]] appears! She came to watch the creation of the airship, but never said anything.
 # Session 7/5/2025
 We finally leveled pre-session (no specific xp given).
 

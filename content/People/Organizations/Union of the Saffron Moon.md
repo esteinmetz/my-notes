@@ -1,2 +1,2 @@
-Mages Guild, specializes in Transmutation.
+Mages Guild, specializes in Illusion.
 Basically owns [[Alewick]]

@@ -1,0 +1,7 @@
+- [ ] [[Beornia King]] wants us to leave the airspace over his empire.
+	- [ ] Options:
+		- [ ] Actually leave.
+		- [ ] Stay high and hidden
+		- [ ] Stay over the mountains near Beornia
+		- [ ] Take over the empire...
+- [ ] 

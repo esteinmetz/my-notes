@@ -8,3 +8,6 @@ Goddess of Evil Dragons
 	3. [[Moon Watcher]]
 2. Multicolored Wyverns
 3. [[Weather]]
+
+Possible Minions
+- [ ] [[Hellulth]] - Dragon "Queen" of [[County of Mossley]]

@@ -1,20 +1,12 @@
+- [Bard Handbook](https://www.joshuad.net/new-bard-handbook/)
+- [Character Sheet (GSheet)](https://docs.google.com/spreadsheets/d/12Fzw5HZVYW5mxB3c3qhJuHQynGbnYp9RfzbS0edXzt4/edit?gid=1535310320#gid=1535310320)
 Race: [Gnome](https://www.d20srd.org/srd/monsters/gnome.htm)
-Bard College ~~(+1 Diplomacy, +1 Gather Info, Knowledge (dungeon & planes) is cross class)~~
-
-[Bard Handbook](https://www.joshuad.net/new-bard-handbook/)
-- [Bard 6](https://www.d20srd.org/srd/classes/bard.htm)
-- [Lyric Thaumaturge 1 (can go to 4 or 7)](https://srd.dndtools.org/srd/classes/prestigeCmage/lyricThaumaturge.html)
-- [Virtuoso 4 (can go to 10)](https://dndtools.net/classes/song-and-silence-a-guidebook-to-bards-and-rogues--48/virtuoso/)
-- [Sublime Chord 6](https://dndtools.net/classes/sublime-chord/)
-#### Weapon and Armor Proficiency
-
-[Simple weapons](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons), plus the longsword, [rapier](https://www.d20srd.org/srd/equipment/weapons.htm#rapier), sap, short sword, [shortbow](https://www.d20srd.org/srd/equipment/weapons.htm#shortbow), and [whip](https://www.d20srd.org/srd/equipment/weapons.htm#whip). Also with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor without incurring the normal arcane spell failure chance.
-
----
+#### Various
+- *Allies that kill helpless or defenseless in 120' of you suffer from -1 morale to attack/kill lasts for 1 hour per kill.*
+- Calming aura 20ft.  Will DC or _calm emotions_
+- If struck by a weapon, it has to Fort or shatter (leaving you unharmed).
 #### Bardic Music
-`Based on Bard + Virtuoso + 1/2 Sublime level = 6 + 4 + 3 = 13 other than daily which is character level.`
-
-Once per day per character level (==`17/day`==), a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. 
+A bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. 
 
 Starting a bardic music effect is a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions). Some bardic music abilities require concentration, which means the bard must take a standard action each round to maintain the ability. Even while using bardic music that doesn’t require concentration, a bard cannot cast spells, activate magic items by [spell completion](https://www.d20srd.org/srd/magicItems/magicItemBasics.htm#spellCompletion) (such as scrolls), [spell trigger](https://www.d20srd.org/srd/magicItems/magicItemBasics.htm#spellTrigger) (such as wands), or [command word](https://www.d20srd.org/srd/magicItems/magicItemBasics.htm#commandWord). Just as for casting a spell with a verbal component, a [deaf](https://www.d20srd.org/srd/conditionSummary.htm#deafened) bard has a 20% chance to fail when attempting to use bardic music. If he fails, the attempt still counts against his daily limit.
 ##### Countersong ([Su](https://www.d20srd.org/srd/specialAbilities.htm#supernaturalAbilities))
@@ -34,7 +26,7 @@ Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming
 ##### Inspire Courage `[+3]` ([Su](https://www.d20srd.org/srd/specialAbilities.htm#supernaturalAbilities))
 _Words of Creation_: can double bonus for 3d4 (average 7) nonlethal damage.
 
-A bard can use song or poetics to inspire courage in his allies (including himself), bolstering them against [fear](https://www.d20srd.org/srd/specialAbilities.htm#fear) and improving their combat abilities. To be affected, an ally must be able to hear the bard sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. An affected ally receives a +1 [morale bonus](https://www.d20srd.org/srd/theBasics.htm#moraleModifier) on [saving throws](https://www.d20srd.org/srd/combat/combatStatistics.htm#savingThrows) against [charm](https://www.d20srd.org/srd/specialAbilities.htm#charmAndCompulsion) and [fear](https://www.d20srd.org/srd/specialAbilities.htm#fear) effects and a +1 morale bonus on attack and weapon damage rolls. At 8th level, and every six bard levels thereafter, this bonus increases by 1 (+2 at 8th, +3 at 14th, and +4 at 20th). Inspire courage is a mind-affecting ability.
+A bard can use song or poetics to inspire courage in his allies (including himself), bolstering them against [fear](https://www.d20srd.org/srd/specialAbilities.htm#fear) and improving their combat abilities. To be affected, an ally must be able to hear the bard sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. An affected ally receives a [morale bonus](https://www.d20srd.org/srd/theBasics.htm#moraleModifier) on [saving throws](https://www.d20srd.org/srd/combat/combatStatistics.htm#savingThrows) against [charm](https://www.d20srd.org/srd/specialAbilities.htm#charmAndCompulsion) and [fear](https://www.d20srd.org/srd/specialAbilities.htm#fear) effects and a morale bonus on attack and weapon damage rolls. At 8th level, and every six bard levels thereafter, this bonus increases by 1 (+2 at 8th, +3 at 14th, and +4 at 20th). Inspire courage is a mind-affecting ability.
 
 ##### Inspire Competence `[+2]` ([Su](https://www.d20srd.org/srd/specialAbilities.htm#supernaturalAbilities))
 _Words of Creation_: can double bonus for 6d4 (average 15) nonlethal damage.
@@ -94,33 +86,3 @@ A sublime chord knows the song of timelessness. As a standard action, she can en
 Mass Suggestion [level 18]
 
 ---
-#### Bardic Knowledge
-A bard may make a special bardic knowledge check (`1d20 + Bard Level + Sublime Chord Level + Int + 2 = `==16==) to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places.
-
-A successful bardic knowledge check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not [take 10](https://www.d20srd.org/srd/skills/usingSkills.htm#taking10) or [take 20](https://www.d20srd.org/srd/skills/usingSkills.htm#taking20) on this check; this sort of knowledge is essentially random.
-
-| DC  | Type of Knowledge                                                                                                                                                       |
-| --- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10  | Common, known by at least a substantial minority of the local population.                                                                                               |
-| 20  | Uncommon but available, known by only a few people legends.                                                                                                             |
-| 25  | Obscure, known by few, hard to come by.                                                                                                                                 |
-| 30  | Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don’t understand the significance of the knowledge. |
-
----
-#### Spells
-Bard/Sublime spells: 17 (each)
-[[Kat Bard.pdf]]
-
----
-#### Feats:
-==[Melodic Casting](https://dndtools.net/feats/complete-mage--58/melodic-casting--1918/)== - Can use Perform instead of Concentration to cast a spell.  Can activate magic items while using bardic music.
-[Nymph's Kiss](https://www.realmshelps.net/charbuild/feat/Nymph~s_Kiss) - Have a good relationship with a good-aligned fey.  Fey see you as fey.  ~~+2 Cha related checks.  ==+1 against spells and spell-like.==  1 extra skillpoint/level.~~
-[Words of Creation](https://www.realmshelps.net/charbuild/feat/Words_of_Creation) - doubles some bardic music effects (included above).  Double duration of Conjuration (Creation) spells.  Increase CL +1 for `[good]` spells (1d4 nonlethal dmg/2 spell levels rounded down).
-
-~~[Sacred Vow](https://dndtools.net/feats/book-of-exalted-deeds--52/sacred-vow--3191/) (BoED p46) - +2 to Diplomacy checks.~~
-[Vow of Nonviolence](https://dndtools.net/feats/book-of-exalted-deeds--52/vow-of-nonviolence--3078/) (BoED p47) - +4 to all spell and ability DCs, but you can't do any damage or kill anyone else. ==It still allows you to do area effects, debuffs, and buffs.==  *Allies that kill helpless or defenseless in 120' of you suffer from -1 morale to attack/kill lasts for 1 hour per kill.*
-[Vow of Peace](https://dndtools.net/feats/book-of-exalted-deeds--52/vow-of-peace--3080/) (BoED p48)
-- ==Calming aura 20ft.  Will== DC `10 + 1/2 CL + Cha + 4 = `==31== or _calm emotions_
-- ~~+2 Nat AC, +2 Deflect AC, +2 exalted AC~~
-- ==If struck, the weapon has to Fort== Save (DC `10 + 1/2 CL + Con + 4 = `==24) or shatter (leaving you unharmed).==
-- ~~+4 to diplomacy.~~

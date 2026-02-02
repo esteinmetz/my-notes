@@ -5,7 +5,8 @@
 4. [[Krebsbach (Erik)]]
 5. [[Met (Derek)]]
 6. [[Vekea Thulgiaga (Niki)]]
-7. NPCs
+7. [[Lorne Character]]
+8. NPCs
 	1. [[Nikolas Salvie (aka Nikolaj)]]
 	2. [[Pricerus]]
 
@@ -19,6 +20,8 @@
 	1. When healed by [[Krebsbach (Erik)]] you also 1 of: daze, dazzled, fatigued, exhausted, nauseated, sickened
 
 # Goals
-- [ ] Build [[Airship]]
+- [x] Build [[Airship]]
 - [ ] Investigate #tiamat
 - [ ] Get [[Nikolas Salvie (aka Nikolaj)|Nikolaj]] to the [[Union of the Saffron Moon]] in [[Alewick]].
+- [ ] Stay in the country
+	- [ ] Do good deeds in the country, thanking the king for letting you help the people.

@@ -7,9 +7,9 @@
 		2. +1 on anything else.  
 		3. All 50% faster
 	2. Special:
-		1. Airships: 1 of 3 known books. (see `Sources of Information` below)
+		1. Airships: 1 of 3 known books.
 		2. Diseases: "a bunch of disease books" (per Kevin) that [[Krebsbach (Erik)]] bought from [[Frank Lechner]].
-2. Alchemical Lab - Typically working on [[Krebsbach (Erik)]] projects.  +4 to 1 alchemist or +2 to 4.
+2. Alchemical Lab x2 - Typically working on [[Krebsbach (Erik)]] projects.  +4 to 1 alchemist or +2 to 4.
 3. Artificer's Shop - Usually used by [[Met (Derek)]].  +2 to 1 crafter.
 4. Control Room: 
 5. Storage:  Storage: 8,000 ft<sup>3</sup>
