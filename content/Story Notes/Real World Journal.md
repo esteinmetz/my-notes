@@ -1,11 +1,13 @@
 # Session 1/18/2026
-After the Draconic fight, [[Nikolas Salvie (aka Nikolaj)]] leaves and doesn't return. We magic him and find that he was taken [[First Guard of the Duchy of Suel]].  We communicated with him and he doesn't want to be saved.  We keep tracking him while we heal and investigate.  He was arrested for regicide in [[County of Mossley]] 
+After the Draconic fight, [[Nikolas Salvie (aka Nikolaj)]] leaves and doesn't return. We magic him and find that he was taken by [[First Guard of the Duchy of Suel]].  We communicated with him and he doesn't want to be saved.  We keep tracking him while we heal and investigate.  He was arrested for regicide in [[County of Mossley]] 
 
 The [[Party]] decides the best option is to go find [[Count Lucas Clayton of Mossley]].  [[Met (Derek)]] scryed him and lost the connection north of the human lands.  [[Krebsbach (Erik)]] uses Discern Location to find a better location, it takes the new [[Airship]] 2 days to get there.  We find the count's ring and evidence says he's dead and in dragon shit, so [[Krebsbach (Erik)]] resurrects him.
 
 [[Hellulth]] the dragon master of [[County of Mossley]].
 
-[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.  Group decides (internally) to keep assisting the people and praising the king for allowing us to help his people.  But with a backup plan to just hide over the mountains near the capital as a worst case.
+[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.  [[Party]] decides (internally) to keep assisting the people and praising the king for allowing us to help his people.  But with a backup plan to just hide over the mountains near the capital as a worst case.
+
+[[Krebsbach (Erik)]] and [[Branlan (Brian)]] slip away to sell some poisons #todo.
 # Session 8/31/2025
 We head South to the outskirts of [[Margraviate of Seameet]] (a pirate town).  [[Krebsbach (Erik)]], [[Met (Derek)]], and [[Vekea Thulgiaga (Niki)]] create [[Airship]] mk1 while the party explores the town.  [[Branlan (Brian)]] loses a bareknuckle boxing fight by cheating (wearing armor).  [[Met (Derek)]] sells booze.  [[Firefly (Crystal)]] forages/sells shrooms.  [[Avir (Alex)]] tries to help the poors (Derek donates 100gp).
 
@@ -15,7 +17,7 @@ A wild [[Welhanna Billowdust (Kat)]] appears! She came to watch the creation of 
 # Session 7/5/2025
 We finally leveled pre-session (no specific xp given).
 
-Erik takes out a tower w/ stone shape.  Alex enters the mayor's ([[Count Lucas Clayton of Mossley]]) manor and geas him to serve Pelor.  Summoning sounds (Draconic, words saying summon mother).  We rush back in.
+Erik takes out a tower w/ stone shape.  Alex enters the mayor's ([[People/Side NPCs/Count Lucas Clayton of Mossley]]) manor and geas him to serve Pelor.  Summoning sounds (Draconic, words saying summon mother).  We rush back in.
 
 Derek/Alex start fighting the summoners.  Erik drops the tower they're in while Derek and Alex start the murder, then runs up to start punching things.
 
@@ -49,13 +51,13 @@ Derek and I head to [[Frank Lechner]].
 We head down to the slave auction and quickly murder the slavers...
 
 # Session 2/1/2025
-Ancient silver dragon crashes in the area, (early rough symbol) image of [[Tiamat]] branded on the dragon’s back.  Autopsy shows death probably from dragon fight including acid burns.  Most likely either black or green dragon.  We resurrected it, its name is [[Moon Watcher]].
+Ancient silver dragon crashes in the area, (early rough symbol) image of [[Tiamat]] branded on the dragon’s back.  Autopsy shows death probably from dragon fight including acid burns.  Most likely either black or green dragon.  We resurrected it, its name is [[People/Side NPCs/Moon Watcher]].
 
 [[Tiamat]] brand can control dragons (early ones can fight back).  He says he was killed by a black.  [[Tiamat]] is trying to control everything…kobolds are completely under her control.
 
 Alter from the beginning of the game is closing (or maybe opening) a seal.  Orbs are super magic batteries.  #altar #lightOrb 
 
-[[Moon Watcher]] gave us nothing other than a little information.
+[[People/Side NPCs/Moon Watcher]] gave us nothing other than a little information.
 
 In [[Warthfeld]], 2 grannies ([[Petunia]] and [[Opal]]) have old people problems.  I heal them, and also birth a calf.  [[Warthfeld]] is FUCKING BORING!!!!!
 

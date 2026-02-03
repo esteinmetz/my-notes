@@ -5,7 +5,7 @@ Goddess of Evil Dragons
 1. Controlling Dragons and Draconic
 	1. Kobolds
 	2. Wyverns
-	3. [[Moon Watcher]]
+	3. [[People/Side NPCs/Moon Watcher]]
 2. Multicolored Wyverns
 3. [[Weather]]
 

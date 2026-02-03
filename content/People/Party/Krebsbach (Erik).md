@@ -41,4 +41,4 @@ Note: these are not easy to see due to nondetection.
 1. [[Party]]
 2. Friendly/Favors
 	1. [[Frank Lechner]] - book salesman keeping an eye out for books on [[Airship]] and #disease for me.
-	2. [[Moon Watcher]] - dragon he resurrected
+	2. [[People/Side NPCs/Moon Watcher]] - dragon he resurrected

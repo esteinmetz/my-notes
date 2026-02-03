@@ -11,14 +11,22 @@
 	2. [[Pricerus]]
 
 # #partyMagic #activeMagic
-1. [Deeper Darkness (Krebsbach)](https://www.d20srd.org/srd/spells/deeperDarkness.htm) - Everyone has 1 item with it on for emergencies
-2. [Psychic Poison (Sleeping area)](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/)
-3. [Shield Other (Krebsbach)](https://www.d20srd.org/srd/spells/shieldOther.htm)
-4. [Telepathic Bond (Krebsbach)](https://www.d20srd.org/srd/psionic/spells/telepathicBondLesser.htm)
-5. [Wind Walk (Krebsbach)](https://www.d20srd.org/srd/spells/windWalk.htm)
-6. Special:
-	1. When healed by [[Krebsbach (Erik)]] you also 1 of: daze, dazzled, fatigued, exhausted, nauseated, sickened
 
+^032da1
+
+This magic is cast daily...so not "permanent" but almost permanent.
+
+| Spell                                                                                                 | Caster               | Notes                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Antidragon Aura](https://dnd.arkalseif.info/spells/draconomicon--92/antidragon-aura--993/index.html) | [[Krebsbach (Erik)]] | +7 Luck AC vs dragons                                                                                                                                                                                                                                                                         |
+| [Deeper Darkness](https://www.d20srd.org/srd/spells/deeperDarkness.htm)                               | [[Krebsbach (Erik)]] | Everyone has 1 item with it on for emergencies                                                                                                                                                                                                                                                |
+| [Heroes' Feast](https://www.d20srd.org/srd/spells/heroesFeast.htm)                                    | [[Krebsbach (Erik)]] | Cured of all diseases, immune to poison, +1d8+10 temp hp, +1 morale bonus on attack/Will saves, immune to fear.  Lasts 18 hours.                                                                                                                                                              |
+| [Psychic Poison](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/)    | [[Krebsbach (Erik)]] | Area we sleep in                                                                                                                                                                                                                                                                              |
+| [Shield of Faith](https://www.d20srd.org/srd/spells/shieldOfFaith.htm)                                | [[Krebsbach (Erik)]] | +9 [deflection bonus](https://www.d20srd.org/srd/theBasics.htm#deflectionBonus)                                                                                                                                                                                                               |
+| [Shield Other](https://www.d20srd.org/srd/spells/shieldOther.htm)                                     | [[Krebsbach (Erik)]] | ~~+1 [deflection bonus](https://www.d20srd.org/srd/theBasics.htm#deflectionBonus) to AC and a~~ +1 [resistance bonus](https://www.d20srd.org/srd/theBasics.htm#resistanceBonus) on saves. Additionally, the subject takes only half damage from all wounds and attacks (Krebsbach takes rest) |
+| [Telepathic Bond](https://www.d20srd.org/srd/psionic/spells/telepathicBondLesser.htm)                 | [[Krebsbach (Erik)]] | You can communicate telepathically through the bond  over any distance (although not from one plane to another).                                                                                                                                                                              |
+Special:
+1. When healed by [[Krebsbach (Erik)]] you also 1 of: daze, dazzled, fatigued, exhausted, nauseated, sickened
 # Goals
 - [x] Build [[Airship]]
 - [ ] Investigate #tiamat
