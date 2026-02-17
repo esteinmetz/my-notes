@@ -1,3 +1,17 @@
+[[World Notes]]
+
+# Session 2/16/2026
+[[Branlan (Brian)]] makes poison connections for [[Krebsbach (Erik)]] while the party spends a day doing stuff.  Gets a note "Talk to [[Tancreed]]" w/ address/time (at close).  We sell a small amount as proof of concept, and are told to come back in 3 days.  [[Krebsbach (Erik)]] sells them on the [[Healing Mage Organization]] as well.  [[Krebsbach (Erik)]] also discovers some #disease Cackle Fever...
+
+[[People/Party/Ronnie (Lorne)]] cons [[Vekea Thulgiaga (Niki)]] bad.  [[Ronnie (Lorne)]] comes and parties with us.  We (mostly) accept them, but they lie about bookkeeping for their guild.
+
+[[Hellulth]] redirected scrying apparently and summoned a bunch of weird elemental zombies (exploded on death).  [[Krebsbach (Erik)]] discerned location, we regathered and teleported to new location.
+
+TODO:
+- [ ] Make isometric view of the tower
+- [ ] build warehouse for Derek
+- [ ] I'm confused about the fealty...what's the difference between a Duchy and a Grand Duchy?
+- [ ] print a base changeling token for [[Ronnie (Lorne)]]
 # Session 1/18/2026
 After the Draconic fight, [[Nikolas Salvie (aka Nikolaj)]] leaves and doesn't return. We magic him and find that he was taken by [[First Guard of the Duchy of Suel]].  We communicated with him and he doesn't want to be saved.  We keep tracking him while we heal and investigate.  He was arrested for regicide in [[County of Mossley]] 
 
@@ -5,7 +19,7 @@ The [[Party]] decides the best option is to go find [[Count Lucas Clayton of Mos
 
 [[Hellulth]] the dragon master of [[County of Mossley]].
 
-[[Beornia King]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.  [[Party]] decides (internally) to keep assisting the people and praising the king for allowing us to help his people.  But with a backup plan to just hide over the mountains near the capital as a worst case.
+[[Eadred the Wise]] threatens the group, gives 1 month to get the tower out of the "civilized area" or be shot down.  [[Party]] decides (internally) to keep assisting the people and praising the king for allowing us to help his people.  But with a backup plan to just hide over the mountains near the capital as a worst case.
 
 [[Krebsbach (Erik)]] and [[Branlan (Brian)]] slip away to sell some poisons #todo.
 # Session 8/31/2025

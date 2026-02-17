@@ -1,7 +1,7 @@
-- [ ] [[Beornia King]] wants us to leave the airspace over his empire.
+- [ ] [[Eadred the Wise]] wants us to leave the airspace over his empire.
 	- [ ] Options:
 		- [ ] Actually leave.
 		- [ ] Stay high and hidden
 		- [ ] Stay over the mountains near Beornia
 		- [ ] Take over the empire...
-- [ ] 
+	- [ ] Do favors for his people and tell them the High King is so wise and compassionate to encourage our assistance of his people.

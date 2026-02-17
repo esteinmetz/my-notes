@@ -24,7 +24,7 @@ the dragon master of [[County of Mossley]].  The [[People/Important NPCs/Count L
 1. Greed...
 
 ###### Planning Notes (Kevin look here to plan against our prep work)
-1. See [[Party#^032da1]] for daily effects cast by folks.
+1. See [[Party#^032da1|Party Magic]] for daily effects cast by folks.
 2. Erik/Derek will give additional buffs (reducing damage/etc)
 3. Things specific to plan around:
 	1. High Nat AC 30-40 (we might be able to lower it a bit)

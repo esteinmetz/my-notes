@@ -19,4 +19,4 @@
 		8. [[Ashstead]]
 		9. [[Noxberry]]
 2. People
-	1. King: [[Beornia King]]
+	1. King: [[Eadred the Wise]]

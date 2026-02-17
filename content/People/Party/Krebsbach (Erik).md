@@ -8,9 +8,10 @@ He seems to have a rage problem, and can perform incredible feats of strength wh
 1. #disease 
 	1. Spoke to a Hedge Wizard in first village we were in and received undisclosed info. #todo 
 	2. Infected Kobolds in different areas with (has probably combined into something worse):
-		1. Mindfire
-		2. Slimy Doom
-		3. Shakes
+		1. Cacklefire
+		2. Mindfire
+		3. Slimy Doom
+		4. Shakes
 2. [[Airship]] 
 	1. Once we have a stable place, officially start [[Healing Mage Organization]]
 
@@ -22,6 +23,7 @@ Note: these are not easy to see due to nondetection.
 	3. blindsight - 90ft
 	4. [ebon eyes](https://srd2.dndtools.org/spells/spell-compendium--86/ebon-eyes--3544/) - see in normal and magical darkness like normal
 	5. [status, greater](https://www.d20srd.org/srd/divine/spells/statusGreater.htm) - monitor relative position and general condition of [[party]] members, can cast 0-2 lvl touch spells on them remotely
+	6. true seeing
 2. Defensive
 	1. [mind blank](https://www.d20srd.org/srd/spells/mindBlank.htm) - (from [[Met (Derek)]]) protected against all things that detect, influence, or read emotions or thoughts.
 	2. [nondetection](https://www.d20srd.org/srd/spells/nondetection.htm) - difficult to detect by divination (caster check against DC 15 + my caster level)
@@ -42,3 +44,5 @@ Note: these are not easy to see due to nondetection.
 2. Friendly/Favors
 	1. [[Frank Lechner]] - book salesman keeping an eye out for books on [[Airship]] and #disease for me.
 	2. [[People/Side NPCs/Moon Watcher]] - dragon he resurrected
+	3. [[People/Important NPCs/Count Lucas Clayton of Mossley|Count Lucas Clayton of Mossley]] - count he resurrected and brought back to civilization (though Niki got him arrested...)
+3. [[Healing Mage Organization]]
