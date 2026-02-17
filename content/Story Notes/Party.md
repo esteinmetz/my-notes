@@ -11,7 +11,7 @@
 	2. [[Pricerus]]
 
 # #partyMagic #activeMagic
-
+^032da1
 
 This magic is cast daily...so not "permanent" but almost permanent.
 
