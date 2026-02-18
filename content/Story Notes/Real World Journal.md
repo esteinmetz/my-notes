@@ -23,7 +23,7 @@ The [[Party]] decides the best option is to go find [[Count Lucas Clayton of Mos
 
 [[Krebsbach (Erik)]] and [[Branlan (Brian)]] slip away to sell some poisons #todo.
 # Session 8/31/2025
-We head South to the outskirts of [[Margraviate of Seameet]] (a pirate town).  [[Krebsbach (Erik)]], [[Met (Derek)]], and [[Vekea Thulgiaga (Niki)]] create [[Airship]] mk1 while the party explores the town.  [[Branlan (Brian)]] loses a bareknuckle boxing fight by cheating (wearing armor).  [[Met (Derek)]] sells booze.  [[Firefly (Crystal)]] forages/sells shrooms.  [[Avir (Alex)]] tries to help the poors (Derek donates 100gp).
+We head South to the outskirts of [[Seameet]] (a pirate town).  [[Krebsbach (Erik)]], [[Met (Derek)]], and [[Vekea Thulgiaga (Niki)]] create [[Airship]] mk1 while the party explores the town.  [[Branlan (Brian)]] loses a bareknuckle boxing fight by cheating (wearing armor).  [[Met (Derek)]] sells booze.  [[Firefly (Crystal)]] forages/sells shrooms.  [[Avir (Alex)]] tries to help the poors (Derek donates 100gp).
 
 After about 2 weeks, crowds start forming near the tower to watch what's going on.  A couple days later, something Gargantuan charges towards the airship.  Draconic, but doesn't seem to have scales.  They are probably crossbreeds of dragons and olyphants (at least).  There's 1 trapped with a body of another trapped in a triangle of wall of force with Niki chopping and Erik grappling.  1 escaped.
 

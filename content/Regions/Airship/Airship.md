@@ -7,6 +7,7 @@ Other:
 1. Dirt stuck around basements to make it even.
 2. Permanent clouds around everything below ground level.
 3. Faster flying to the ground.
+![[Airship.jpg|600]]
 ## Floors
 1. [[Floor 0 - Ground]]
 2. [[Floor B1 - Living]]
