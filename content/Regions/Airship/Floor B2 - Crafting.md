@@ -19,4 +19,4 @@
 3. Artificer's Shop: Derek?
 4. Library: 2 unseen crafter librarians
 # Magic
-1. [glyph of warding (greater), max emp](https://www.d20srd.org/srd/spells/glyphOfWardingGreater.htm) on stairs going down.  120 acid dmg, Ref DC 80 for 1/2.  All 5 energies.  Entrance of the Alchemy Lab
+1. [glyph of warding (greater), max emp](https://www.d20srd.org/srd/spells/glyphOfWardingGreater.htm) on door to alchemy room.  120 acid dmg, Ref DC 80 for 1/2.  All 5 energies.  Entrance of the Alchemy Lab.  Only [[Krebsbach (Erik)]] & [[Met (Derek)]] can pass.

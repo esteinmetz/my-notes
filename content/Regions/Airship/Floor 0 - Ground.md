@@ -4,8 +4,9 @@
 1. Courtyard - Open Air Park
 2. Privy
 3. Stables
-	1. Houses 6 horses
+	1. Houses 12 horses
 	2. Is heated
+	3. Has water and horse feed
 4. Hospital (10 beds)
 # Staff
 1. General: 1 unseen servant to keep everything clean

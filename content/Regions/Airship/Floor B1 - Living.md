@@ -13,3 +13,6 @@
 # Magic
 1. [glyph of warding (greater), max emp](https://www.d20srd.org/srd/spells/glyphOfWardingGreater.htm) on stairs going down.  120 acid dmg, Ref DC 80 for 1/2.
 	1. [[Ronnie (Lorne)]] doesn't have access to anything below here.
+
+# Notes
+Due to software limitations...can't drawn it all in, but the outside is all dirt.  That is everything on the outside that looks like a wood floor and the right triangle.

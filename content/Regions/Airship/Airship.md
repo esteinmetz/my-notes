@@ -16,7 +16,7 @@ Other:
 1. endure elements
 2. *[forbiddance](https://www.d20srd.org/srd/spells/forbiddance.htm)* - to prevent planar travel/summoning to anywhere not desired for public (everything below ground currently).  DC 78
 	1. Password for entrance given to [[Party]].
-3. *[nondetection](https://www.d20srd.org/srd/spells/nondetection.htm)* - on entire fortress. Caster check DC 41
+3. *[nondetection](https://www.d20srd.org/srd/spells/nondetection.htm)* - on entire fortress. Caster check DC 43
 4. *[psychic poison](https://dnd.arkalseif.info/spells/book-of-vile-darkness--37/psychic-poison--125/)* - black unlyn.
 # Future
 - [ ] Permanent teleports
