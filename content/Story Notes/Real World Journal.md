@@ -1,5 +1,10 @@
 [[World Notes]]
 
+# Session 3/14/2026
+DRAGON THROW DOWN!!!!!
+
+Need:
+cold immunities
 # Session 2/16/2026
 [[Branlan (Brian)]] makes poison connections for [[Krebsbach (Erik)]] while the party spends a day doing stuff.  Gets a note "Talk to [[Tancreed]]" w/ address/time (at close).  We sell a small amount as proof of concept, and are told to come back in 3 days.  [[Krebsbach (Erik)]] sells them on the [[Healing Mage Organization]] as well.  [[Krebsbach (Erik)]] also discovers some #disease Cackle Fever...
 
